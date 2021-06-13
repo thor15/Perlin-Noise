@@ -13,4 +13,4 @@ generateFractalSum(.08f, 3.5f, 2, 0.5f, 5);
 
 # Credits
 
-This code would not have been possible without [ScratchAPixel}(https://www.scratchapixel.com/).
+This code would not have been possible without [ScratchAPixel](https://www.scratchapixel.com/).
